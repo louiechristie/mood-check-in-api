@@ -1,0 +1,26 @@
+{
+  "name": "mood-check-in-api",
+  "version": "0.0.1",
+  "description": "Prototype REST API for mood check-in data.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiechristie/mood-check-in-api.git"
+  },
+  "keywords": [
+    "mood",
+    "check",
+    "in"
+  ],
+  "author": "Louie Christie",
+  "bugs": {
+    "url": "https://github.com/louiechristie/mood-check-in-api/issues"
+  },
+  "homepage": "https://github.com/louiechristie/mood-check-in-api#readme",
+  "devDependencies": {
+    "json-server": "^0.14.2"
+  }
+}
