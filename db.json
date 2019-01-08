@@ -1,0 +1,29 @@
+{
+    "feelings": [
+        "depressed",
+        "optimistic",
+        "bored",
+        "happy"
+    ],
+    "checkins": [
+      {
+        "id": 1,
+        "mood": 7,
+        "feelings": [
+            "optimistic",
+            "happy"
+        ],
+        "comment": "Happy day.",
+        "timestamp": 1546863586733
+      },
+      {
+        "id": 2,
+        "mood": 1,
+        "feelings": [
+            "depressed"
+        ],
+        "comment": "Depressed day.",
+        "timestamp": 1546949986733
+      }
+    ]
+  }
