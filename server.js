@@ -7,3 +7,5 @@ const port = process.env.PORT || 3000;
 server.use(middlewares);
 server.use(router);
 server.listen(port);
+
+console.log(`Server listening at http://localhost:${port} or your server IP port ${port}`);
