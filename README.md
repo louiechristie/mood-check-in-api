@@ -20,4 +20,5 @@ yarn start
 ```
 
 ## Technologies used
+
 * [JSON Server](https://github.com/typicode/json-server)
