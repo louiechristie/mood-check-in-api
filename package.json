@@ -21,14 +21,14 @@
   },
   "homepage": "https://github.com/louiechristie/mood-check-in-api#readme",
   "devDependencies": {
-    "eslint": "^7.1.0",
-    "eslint-config-universe": "^3.0.1",
-    "prettier": "^2.0.5"
+    "eslint": "^7.25.0",
+    "eslint-config-universe": "^7.0.1",
+    "prettier": "^2.2.1"
   },
   "eslintConfig": {
     "extends": "universe/node"
   },
   "dependencies": {
-    "json-server": "^0.16.1"
+    "json-server": "^0.16.3"
   }
 }
