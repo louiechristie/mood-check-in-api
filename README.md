@@ -1,5 +1,7 @@
 # mood-check-in-api
 
+**DEPRECATED - this libarary is no longer used, and no longer supported 🌅** 
+
 **Test** REST API for mood check-in data.
 
 This is a simple API testing front-end code.
